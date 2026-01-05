@@ -1,12 +1,3 @@
-Commit new file
-□ Add directly to the main branch.
-
-Commit message *
-[text box here]
-
-[ ] Optional extended description
-
-[Green "Commit new file" button]
 # Spivak Chapter 1, Problem 1(i)
 
 **Statement:** If $a < b$ and $c < d$, then $a + c < b + d$.
