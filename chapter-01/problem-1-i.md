@@ -1,4 +1,4 @@
-# Spivak Chapter 1, Problem 1(i)
+# Spivak Chapter 1, Problem 5(iii)
 
 **Statement:** If $a < b$ and $c > d$, then $a - c < b - d$.
 
